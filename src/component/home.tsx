@@ -9,27 +9,27 @@ const HomePage = () => {
             <div className="grid-container">
                 <div className="grid-item">
                     {/* <Image></Image> */}
-                    <img className="image-item" src={"/component/image/cocalno2.png"}/>
+                    <img className="image-item" src={imga} />
                 </div>
                 <div className="grid-item">
                     {/* <Image></Image> */}
-
+                    <img className="image-item" src={imga} />
                 </div>
                 <div className="grid-item">
                     {/* <Image></Image> */}
-
+                    <img className="image-item" src={imga} />
                 </div>
                 <div className="grid-item">
                     {/* <Image></Image> */}
-
+                    <img className="image-item" src={imga} />
                 </div>
                 <div className="grid-item">
                     {/* <Image></Image> */}
-
+                    <img className="image-item" src={imga} />
                 </div>
                 <div className="grid-item">
                     {/* <Image></Image> */}
-
+                    <img className="image-item" src={imga} />
                 </div>
             </div>
         </div>
